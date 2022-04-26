@@ -6,3 +6,8 @@ When looking at this dataset for potential relationships, a few seemed reasonabl
 # graphes
 
 ![](/educationvs%20incomehuetarget.PNG)
+![](/familystatues%20vsincome%20and%20risk.PNG)
+![](/efamilystatuesvsriskornot.PNG)
+![](/incomevaccountlenhuetarget.PNG)
+![](/malevfemale%20incomeandriskvnot.PNG)
+![](/owning%20propertyvsnot%20for%20beinghigh%20risk.PNG)
