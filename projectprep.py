@@ -31,3 +31,4 @@ df
 #plot = sns.scatt(data = df, x = 'Account_length', y = 'Total_income', hue = 'Target')
 #plot = sns.barplot(data=df, x = 'Family_status', y= 'Total_income')
 #plot = sns.barplot(data = df, x='Education_type', y = "Target")
+#plot = sns.barplot(data = df, x ='Own_property', y =df.groupby('Own_property')['Total_income'].transform('mean'))
