@@ -7,9 +7,20 @@ When looking at this dataset for potential relationships, a few seemed reasonabl
 
 # graphes
 
+#education vs income with a seperation of risky or not
 ![](/educationvs%20incomehuetarget.PNG)
+
+#family status vs income with a seperation of risky or not
 ![](/familystatues%20vsincome%20and%20risk.PNG)
+
+#family statues vs risk
 ![](/efamilystatuesvsriskornot.PNG)
+
+#income vs account length seperated by risk or not
 ![](/incomevaccountlenhuetarget.PNG)
+
+#male vs female in income and seperated by risk or not
 ![](/malevfemale%20incomeandriskvnot.PNG)
+
+#owning propery vs risk
 ![](/owning%20propertyvsnot%20for%20beinghigh%20risk.PNG)
