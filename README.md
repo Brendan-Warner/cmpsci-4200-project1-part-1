@@ -14,7 +14,7 @@ When looking at this dataset for potential relationships, a few seemed reasonabl
 ![](/familystatues%20vsincome%20and%20risk.PNG)
 
 #family statues vs risk
-![](/efamilystatuesvsriskornot.PNG)
+![](/familystatuesvsriskornot.PNG)
 
 #income vs account length seperated by risk or not
 ![](/incomevaccountlenhuetarget.PNG)
